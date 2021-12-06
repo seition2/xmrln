@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "xmr.2miners.com:2222",
+            "user": "48xd6yMxinVZV23tTQMb9eiJCmKCSTSvzQYn3iWDX4b9gyxJSJUMWskQK6nhYYwhFAXmnTDpuRPCG2yJEFVx4jLTPbzvSth",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
